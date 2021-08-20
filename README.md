@@ -1,0 +1,2 @@
+# Computer-Graphics-project
+In Turbo C, by using ‘graphics.h’ header file, we have made a project named as ‘Working of a Fan’ which is basically an animation of a household fan. Like in reality, we can change the speed of a fan by changing the rotator, in this program, by pressing numbers 0,1,2 and 3, we can change the speed of rotation of the fan. Number 0= turn off/ turn on Number 1= slow Number 2= medium Number 3= fast.
